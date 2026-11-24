@@ -1,0 +1,31 @@
+{
+  "name": "sanjuuuu-photography",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "placeholders": "python3 scripts/make_placeholders.py"
+  },
+  "dependencies": {
+    "@fontsource-variable/dm-sans": "^5.1.0",
+    "@fontsource/cormorant-garamond": "^5.1.0",
+    "framer-motion": "^11.15.0",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.18",
+    "lucide-react": "0.469.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.0"
+  }
+}
