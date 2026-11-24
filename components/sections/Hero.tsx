@@ -74,8 +74,8 @@ export default function Hero() {
         >
           <div className="absolute inset-0 animate-kenburns">
             <Image
-              src="/images/hero/hero.jpg"
-              alt="Wedding photograph by SANJUUUU"
+              src="/images/hero/photographer-at-work.png"
+              alt="Photographer reviewing a photograph"
               fill
               priority
               sizes="100vw"
